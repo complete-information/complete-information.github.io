@@ -1,2 +1,2 @@
-# githubio-template
-Template for github.io pages
+# Complete Information
+github.io pages
