@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Site Name
+title: Complete Information
 ---
 # Github.io template. Index
 <pre>
